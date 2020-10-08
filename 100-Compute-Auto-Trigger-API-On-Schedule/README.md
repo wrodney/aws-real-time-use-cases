@@ -1,4 +1,4 @@
-# Automatically Trigger APIGW/Lambda Function on Schedule
+# Automatically Trigger APIGW/Lambda Function on Schedule.
 
 ## 🔥 Scenario
 
